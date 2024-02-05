@@ -1,0 +1,5 @@
+SELECT TOP (1000) [StudentId]
+      ,[FirstName]
+      ,[LastName]
+      ,[Class]
+  FROM [StudentContext-20240205204615].[dbo].[Students]
